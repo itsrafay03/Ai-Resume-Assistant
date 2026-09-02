@@ -12,7 +12,7 @@ from pypdf import PdfReader
 
 
 APP_TITLE = "Resume ATS Analyzer"
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.6-flash"
 
 st.set_page_config(
     page_title=APP_TITLE,
