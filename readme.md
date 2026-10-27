@@ -1,6 +1,6 @@
 # 🤖 AI Resume Assistant
 
-A practical, AI-powered web application designed to help users generate and optimize professional resumes.
+A practical, AI-powered web application designed to help users generate and optimize professional resumes. 
 
 This project was built and showcased as part of an impactful community workshop aimed at helping students solve real-world problems using modern AI tools.
 
