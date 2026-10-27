@@ -64,8 +64,8 @@ On **September 2, 2026**, I delivered the opening session to **450+ students** f
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/itsrafay03/Ai-Content-Assistant.git
-   cd Ai-Content-Assistant
+   git clone https://github.com/itsrafay03/Ai-Resume-Assistant.git
+   cd Ai-Resume-Assistant
    
    ```
 
