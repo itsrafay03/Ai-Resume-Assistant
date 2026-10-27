@@ -38,7 +38,7 @@ On **September 2, 2026**, I delivered the opening session to **450+ students** f
 
 * **Version Control:** Git & GitHub
 
-* **Resume Generation** Gemini 3.1 Flash Lite Model
+* **Resume Generation** Gemini 3.5 Flash Lite Model
 
 * **Deployment & UI Framework:** Streamlit Cloud
 
